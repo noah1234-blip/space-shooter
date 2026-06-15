@@ -1,0 +1,8 @@
+space-shooter/
+├── index.html
+├── images/
+│   ├── player.png
+│   └── boss.png
+└── sounds/
+    ├── shoot.wav
+    └── explosion.wav
